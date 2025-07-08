@@ -1,7 +1,4 @@
-<!-- MOVIE INTRO GIF BANNER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" alt="Intro Banner">
-</p>
+
 
 <h1 align="center">🎬 Abdul Rahman: Code. Craft. Conquer.</h1>
 <h3 align="center">Full Stack Developer | University of Waterloo | Builder of Worlds 🌐</h3>
