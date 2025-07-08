@@ -3,7 +3,7 @@
 <h1 align="center">🎬 Abdul Rahman: Code. Craft. Conquer.</h1>
 <h3 align="center">Full Stack Developer | University of Waterloo | Builder of Worlds 🌐</h3>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8F00FF&width=435&lines=Hi+I'm+Abdul+Rahman;Full+Stack+Dev+%7C+AI+Enthusiast+%7C+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8F00FF&width=435&lines=Hi+I'm+Abdul+Rahman;Full+Stack+Dev+%7C+AI+Enthusiast" alt="Typing SVG" />
 </h3>
 
 <p align="center">
