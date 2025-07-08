@@ -58,15 +58,7 @@
   </a>
 </p>
 
----
 
-### 🎞️ Credits Roll
-
-> Passion. Precision. Performance.  
-> Thanks for visiting my GitHub — see you in the sequel. 🍿  
-> **⭐️ Don't forget to star the repo if you liked the show!**
-
----
 
 
 
