@@ -14,7 +14,7 @@
 
 ### 🚀 NOW PLAYING: `Note Ninja`
 > ✍️ Built to help you **slash through clutter** and **master your notes**.  
-🔗 [Check it out!](https://note-ninja-six.vercel.app/)
+🔗 [Check it out!](https://note-ninja.com/)
 
 ---
 
